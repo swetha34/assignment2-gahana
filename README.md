@@ -86,7 +86,7 @@ END CLASS
 |  Location    |   Number of hours |  Amount Of Money |             Images                      |        
 |--------------|-------------------|------------------|----------------------------------------- |
 | Mahabalipuram|       3 hours     |   200$           |![Mahabalipuram](mahabalipuram.jpg)       |
-| Marina Beach |       5 hours     |     50$          |![MarinaBeach](marienabeachchennai.jpg)   |
+| Marina Beach |       5 hours     |     50$          |![Marina Beach](marienabeachchennai.jpg)  |
 | Pondicherry  |       6 hours     |     100$         |![Pondicherry](Pondichery.jpg)            |
 | Pichavaram   |       4 hours     |     300$         |![Pichavaram](pichavaram.jpg)             |
 | Yelagiri     |       9 hours     |     250$         |![Yelagiri](yelagiri.jpg)                 |
