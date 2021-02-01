@@ -29,3 +29,33 @@ __________________________________________
 * Come home    
 
 ![link for about me](AboutMe.md)
+
+--------------------------------------------------------
+# One interesting place to visit in india is "CHENNAI"
+ 
+ Chennai, on the Bay of Bengal in eastern india, is the captial of the state of Tami Nandu.It is famous as the biggiest cultural and economic center down south,chennai was earlier know as Madras.The city houses several Hindu temples,churches and museums,froms its white-sand beaches to mouth-watering seafood,chennai is known as the "GATE OF SOUTH INDIA".
+
+-----------------------------------------------------------
+
+|  Location    |   Number of hours |  Amount Of Money |
+|--------------|-------------------|----------------  |
+| Mahabalipuram|       3 hours     |   200$           |
+| Marina Beach |       5 hours     |     50$          |
+| Pondicherry  |       6 hours     |     100$         |
+| Pichavaram   |       4 hours     |     300$         |
+| Yelagiri     |       9 hours     |     250$         |
+|              |                   |                  |
+
+---------------------------------------------------------
+
+# Quotes
+
+> "Spread love everywhere you go.Let no one ever come to you without leaving happier.*** Mother Teresa ***
+> "Tell me and I forget. Teach me and I remember. Involve me and I learn." *** Benjamin Franklin ***
+> ""You will face many defeats in life, but never let yourself be defeated." *** Maya Angelou ***
+
+---------------------------------------------------------
+
+# Code Fencing 
+
+> 
