@@ -83,11 +83,11 @@ END CLASS
 
 # Images of the placess to visit in Chennai
 
-|  Location    |   Number of hours |  Amount Of Money |             Images                      |        
-|--------------|-------------------|------------------|----------------------------------------- |
-| Mahabalipuram|       3 hours     |   200$           |![Mahabalipuram](mahabalipuram.jpg)       |
-| Marina Beach |       5 hours     |     50$          |![Marina Beach](marienabeach.jpg)         |
-| Pondicherry  |       6 hours     |     100$         |![Pondicherry](Pondichery.jpg)            |
-| Pichavaram   |       4 hours     |     300$         |![Pichavaram](pichavaram.jpg)             |
-| Yelagiri     |       9 hours     |     250$         |![Yelagiri](yelagiri.jpg)                 |
-|              |                   |                  |                                          |
+|  Location    |              Images                      |     
+|--------------|-------------------------------------------
+| Mahabalipuram|![Mahabalipuram](mahabalipuram.jpg)       |
+| Marina Beach |![Marina Beach](marienabeach.jpg)         |
+| Pondicherry  |![Pondicherry](Pondichery.jpg)            |
+| Pichavaram   |![Pichavaram](pichavaram.jpg)             |
+| Yelagiri     |![Yelagiri](yelagiri.jpg)                 |
+|              |                                          |
